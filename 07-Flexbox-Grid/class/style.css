@@ -32,7 +32,7 @@ a {
     background-image: #333 url(https://learn.seytech.co/assets/projects/html-css/images/agency/code-screen.png);
 }
 
-/* 
+
 ul {
     list-style: none;
 }
@@ -117,4 +117,4 @@ main {
 .section-second ul {
     display: flex;
     justify-content: space-evenly;
-} */
+}
