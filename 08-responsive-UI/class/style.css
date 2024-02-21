@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#logo {
+    background-color: lightcoral;
+    font-size: 30px;
+    font-weight: bold;
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    font-size: 22px;
+    background-color: lightblue;
+    border: 4px dashed red;
+    padding: 20px;
+}
